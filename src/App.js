@@ -10,6 +10,7 @@ import MainPage from './component/page/MainPage';
 import PostWritePage from './component/page/PostWritepage';
 import PostViewPage from './component/page/PostViewPage';
 
+// 각 페이지별로 경로 구성
 const MainTileText = styled.p`
   font-size: 24px;
   font-weight: bold;
