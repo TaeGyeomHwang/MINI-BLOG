@@ -1,4 +1,3 @@
-### mini-blog
  # 개요
 
 리액트를 활용해서 미니 블로그를 제작했다.
@@ -15,12 +14,15 @@
 
 ### 메인 페이지
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/bf922eab-7f14-4cda-aa72-1e3c0f530cdd/1ea451c5-da82-4912-ae96-02df919494c7/Untitled.png)
+<img width="563" alt="Untitled" src="https://github.com/TaeGyeomHwang/mini-blog/assets/80676211/55f53ee5-a558-4155-ad23-982aa99ed973">
+
 
 ### 글 작성하기 페이지
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/bf922eab-7f14-4cda-aa72-1e3c0f530cdd/a3bb496c-519d-47a8-abc4-30619fe5fb85/Untitled.png)
+<img width="569" alt="Untitled (1)" src="https://github.com/TaeGyeomHwang/mini-blog/assets/80676211/7ffc02d0-3f35-4ea3-9299-5f60b650b244">
+
 
 ### 글 내용 페이지
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/bf922eab-7f14-4cda-aa72-1e3c0f530cdd/322e0eeb-6f3b-4f31-a713-c6d496adf4e9/Untitled.png)
+<img width="562" alt="Untitled (2)" src="https://github.com/TaeGyeomHwang/mini-blog/assets/80676211/00d9c483-d097-44c2-b61c-d1c748874491">
+
