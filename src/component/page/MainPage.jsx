@@ -39,6 +39,7 @@ function MainPage(props) {
         <Button
           title="글 작성하기"
           onClick={() => {
+            // 클릭하면 해당 path로 이동해준다.
             navigate("/post-write");
           }}
         />
