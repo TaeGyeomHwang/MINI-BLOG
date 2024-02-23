@@ -1,5 +1,5 @@
  # 개요
-https://shorturl.at/btMOY
+블로그 게시글 : https://shorturl.at/btMOY
 
 리액트를 활용해서 미니 블로그를 제작했다.
 
