@@ -1,5 +1,5 @@
  # 개요
-
+https://inblog.ai/driedpollack/react-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%AF%B8%EB%8B%88-%EB%B8%94%EB%A1%9C%EA%B7%B8-14446
 리액트를 활용해서 미니 블로그를 제작했다.
 
 해당 미니 프로젝트는 list, page, ui 컴포넌트로 구성되며, 주요 기능은 다음과 같다.
